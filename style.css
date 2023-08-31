@@ -25,14 +25,13 @@
 }
 
 body {
-  /*
-  background-image: url(./assets/assets/assets/bg-mobile.jpg);
+  
+  background-image: url(/bg-mobile.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
   */
-  /*Agrupar Background*/
-  /*background: image repeat position/size*/
+ 
   background: var(--bg-url) no-repeat top center/cover;
 }
 
