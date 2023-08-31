@@ -16,7 +16,8 @@
 }
 
 .light {
- 
+  --text-color: black;
+  --bg-url: url(bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -32,7 +33,7 @@ body {
   background-position: top center;
   background-size: cover;
  
-  background: var(--bg-url) no-repeat top center/cover;
+  
 }
 
 body * {
